@@ -1,0 +1,14 @@
+#footer-sec {
+    background-color:#000;
+    padding:20px 50px;
+    color:#fff;
+    font-size:12px;
+}
+
+    #footer-sec h6 {
+        color:#fff;
+    }
+    #footer-sec h6:hover,a:focus {
+        color:#fff;
+        text-decoration:none;
+    }
